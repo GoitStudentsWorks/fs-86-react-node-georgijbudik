@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fs-86-react-node-georgijbudik/static/css/main.c276366b.css",
-    "main.js": "/fs-86-react-node-georgijbudik/static/js/main.81b974b7.js",
+    "main.js": "/fs-86-react-node-georgijbudik/static/js/main.8a26b1be.js",
     "index.html": "/fs-86-react-node-georgijbudik/index.html",
     "main.c276366b.css.map": "/fs-86-react-node-georgijbudik/static/css/main.c276366b.css.map",
-    "main.81b974b7.js.map": "/fs-86-react-node-georgijbudik/static/js/main.81b974b7.js.map"
+    "main.8a26b1be.js.map": "/fs-86-react-node-georgijbudik/static/js/main.8a26b1be.js.map"
   },
   "entrypoints": [
     "static/css/main.c276366b.css",
-    "static/js/main.81b974b7.js"
+    "static/js/main.8a26b1be.js"
   ]
 }
