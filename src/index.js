@@ -15,7 +15,7 @@ import 'configs/i18n';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <PersistGate loading={null} persistor={persistor}>
-      <BrowserRouter basename="project-GOreITshniki">
+      <BrowserRouter basename="fs-86-react-node-georgijbudik">
         <Provider store={store}>
           <AppThemeProvider>
             <App />
